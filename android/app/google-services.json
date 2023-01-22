@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990644263369",
+    "project_id": "diavest-6af01",
+    "storage_bucket": "diavest-6af01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990644263369:android:cd7159e3d33a54896d7018",
+        "android_client_info": {
+          "package_name": "com.diavest.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990644263369-mm3rjihe95073doijdt90vdqtn283uig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnPL4ZWM82nYLImPTcqW5evDoCOIUDwzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990644263369-mm3rjihe95073doijdt90vdqtn283uig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
